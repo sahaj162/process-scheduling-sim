@@ -45,6 +45,12 @@
 | UI Components| Shadcn/UI *(Optional)*    |
 
 ---
+✅ Layered Component Architecture
+
+
+<img width="1536" height="1024" alt="process-sim diag" src="https://github.com/user-attachments/assets/6fa39eb0-8533-4d7f-8cd8-53f94c0edde7" />
+👨‍💻 Author
+Sahaj Vaid
 
 ## 🛠 Getting Started
 
@@ -61,3 +67,4 @@ npm run dev
 
 # 4️⃣ Visit in browser
 http://localhost:3000
+
