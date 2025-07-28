@@ -1,44 +1,63 @@
-# 🧠 CPU Scheduler Visualizer
+<h1 align="center">🧠 CPU Scheduler Visualizer</h1>
 
-An interactive web application that visualizes common CPU scheduling algorithms in real-time.  
-Built with **Next.js 14**, **TypeScript**, and **Tailwind CSS**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-14-blue" />
+  <img src="https://img.shields.io/badge/TypeScript-✔️-3178C6" />
+  <img src="https://img.shields.io/badge/TailwindCSS-✔️-38B2AC" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
+</p>
 
----
-
-## 🚀 Features
-
-- 🔁 Interactive visualization of CPU scheduling algorithms:
-  - **First Come First Serve (FCFS)**
-  - **Round Robin (RR)**
-  - **Shortest Job First (SJF)**
-  - **Shortest Remaining Time First (SRTF)**
-- 📊 Real-time Gantt chart visualization
-- 📈 Automatic calculation of:
-  - Average Waiting Time
-  - Average Turnaround Time
+<p align="center">
+  ⚙️ Visualize CPU Scheduling Algorithms in Real-Time with Intuitive Gantt Charts and Performance Metrics.
+</p>
 
 ---
 
-## 🛠️ Getting Started
+## ✨ Live Demo
 
-### 1. Clone the Repository
+👉 [**Click Here to Try the App**](https://process-scheduling-sim-jbz3-bggto0n5r-sahajs-projects-e80516c6.vercel.app/)
+
+---
+
+## 🎯 Features
+
+✅ **Real-Time CPU Scheduling Visualizations**  
+✅ **Interactive Gantt Chart** with smooth transitions  
+✅ **Performance Metrics**:  
+   - Average **Waiting Time**  
+   - Average **Turnaround Time**  
+✅ Algorithms Supported:
+- 🟢 First Come First Serve (**FCFS**)
+- 🔁 Round Robin (**RR**)
+- ⚡ Shortest Job First (**SJF**)
+- ⏳ Shortest Remaining Time First (**SRTF**)
+
+---
+
+## 🖥️ Tech Stack
+
+| Layer        | Tech           |
+|--------------|----------------|
+| Frontend     | Next.js 14     |
+| Language     | TypeScript     |
+| Styling      | Tailwind CSS   |
+| Animations   | Framer Motion *(Optional)* |
+| UI Components| Shadcn/UI *(Optional)*    |
+
+---
+
+## 🛠 Getting Started
 
 ```bash
+# 1️⃣ Clone the repository
 git clone https://github.com/sahaj162/process-scheduling-sim
 cd process-scheduling-sim
-npm i
+
+# 2️⃣ Install dependencies
+npm install
+
+# 3️⃣ Start the dev server
 npm run dev
 
-Open in Browser
-Visit: http://localhost:3000
-
-📂 Tech Stack
-Framework: Next.js 14
-
-Language: TypeScript
-
-Styling: Tailwind CSS
-
-
-
-
+# 4️⃣ Visit in browser
+http://localhost:3000
