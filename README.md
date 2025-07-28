@@ -28,6 +28,7 @@ Built with **Next.js 14**, **TypeScript**, and **Tailwind CSS**.
 cd process-scheduling-sim
 npm install
 npm run dev
+http://localhost:3000
 🧱 Layered Component Architecture
 This architecture shows how the system is divided into UI and Logic layers.
 
