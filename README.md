@@ -19,7 +19,7 @@ An interactive web application that visualizes common CPU scheduling algorithms.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/process-scheduling-sim.git
+https://github.com/sahaj162/process-scheduling-sim.git
 ```
 
 2. Install dependencies: `npm install`
